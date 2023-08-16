@@ -1,11 +1,6 @@
 # I-Dont-Know-IMU
-# IDK-IMU
 
 <p align="center"><img src="https://s2.loli.net/2023/08/16/1gUJBvzx8y2QG3I.jpg" width="300"></p>
-
-在线阅读地址：
-
-- https://idkjs.mphy.top
 
 ## About
 
